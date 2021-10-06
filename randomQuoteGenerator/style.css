@@ -1,0 +1,153 @@
+#thisHeader {
+    background-color: blanchedalmond;
+    margin: auto;
+    padding: 2em;
+}
+
+h1 {
+    margin: 0;
+    padding: .25em;
+    color: rgb(228, 115, 1);
+}
+
+h3 {
+    margin: 0;
+    padding: .25em;
+    color: rgb(107, 86, 65);
+}
+
+.mainPageContent {
+    /* position: fixed; */
+    display: flex;
+    width: 1350px;
+    height: auto;
+}
+
+#mainPage {
+    /* position: relative; */
+    background-color: rgb(214, 208, 208);
+    margin: 0 auto;
+    text-align: center;
+    border-right: 1px solid blanchedalmond;
+    ;
+    /* padding: .25em; */
+    width: 675px;
+    height: 350px;
+    /* border-right: aquamarine; */
+    border-bottom: 10px solid blanchedalmond;
+}
+
+#mainPageButton {
+    margin: 2em .25em;
+    padding: 2em 1.5em;
+    background-color: rgb(242, 242, 242);
+    /* color: rgb(255, 255, 255); */
+    color: rgb(128, 78, 32);
+    font-size: 1.25rem;
+    border-radius: 1.5em;
+    box-shadow: -3px 5px 12px 0px #111111;
+}
+
+#mainPageOutput {
+    margin: .25em;
+    /* padding: .25em .25em; */
+    color: rgb(255, 111, 0);
+    font-size: 2rem;
+}
+
+#mainPage2 {
+    /* position: relative; */
+    background-color: rgb(214, 208, 208);
+    margin: 0 auto;
+    text-align: center;
+    border-left: 1px solid blanchedalmond;
+    /* border: 3px solid orange; */
+    /* padding: .25em; */
+    width: 675px;
+    height: 350px;
+    border-bottom: 10px solid blanchedalmond;
+}
+
+#mainPageButton2 {
+    margin: 2em .25em;
+    padding: 2em 1.5em;
+    background-color: rgb(242, 242, 242);
+    /* color: rgb(255, 255, 255); */
+    color: rgb(128, 78, 32);
+    font-size: 1.25rem;
+    border-radius: 1.5em;
+    box-shadow: -3px 5px 12px 0px #111111;
+}
+
+#mainPageOutput2 {
+    margin: .25em;
+    /* padding: .25em .25em; */
+    color: rgb(0, 255, 0);
+    font-size: 2rem;
+}
+
+#mainPage3 {
+    /* position: relative; */
+    background-color: rgb(214, 208, 208);
+    margin: 0 auto;
+    text-align: center;
+    border-left: 1px solid blanchedalmond;
+    /* border: 3px solid orange; */
+    /* padding: .25em; */
+    width: 675px;
+    height: 350px;
+    margin-top: 360px;
+    margin-left: -1350px;
+    border-top: 10px solid blanchedalmond;
+}
+
+#mainPageButton3 {
+    margin: 2em .25em;
+    padding: 2em 1.5em;
+    background-color: rgb(242, 242, 242);
+    /* color: rgb(255, 255, 255); */
+    color: rgb(128, 78, 32);
+    font-size: 1.25rem;
+    border-radius: 1.5em;
+    box-shadow: -3px 5px 12px 0px #111111;
+}
+
+#mainPageOutput3 {
+    margin: .25em;
+    /* padding: .25em .25em; */
+    color: rgb(0, 255, 0);
+    font-size: 2rem;
+}
+
+#mainPage4 {
+    /* position: relative; */
+    background-color: rgb(214, 208, 208);
+    margin: 0 auto;
+    text-align: center;
+    border-left: 2px solid blanchedalmond;
+    /* border: 3px solid orange; */
+    /* padding: .25em; */
+    width: 675px;
+    height: 350px;
+    margin-top: 360px;
+    margin-right: 0px;
+    border-top: 10px solid blanchedalmond;
+}
+
+#mainPageButton4 {
+    margin: 2em .25em;
+    padding: 2em 1.5em;
+    background-color: rgb(242, 242, 242);
+    /* color: rgb(255, 255, 255); */
+    color: rgb(128, 78, 32);
+    font-size: 1.25rem;
+    border-radius: 1.5em;
+    box-shadow: -3px 5px 12px 0px #111111;
+}
+
+#mainPageOutput4 {
+    margin: .25em;
+    /* padding: .25em .25em; */
+    color: rgb(255, 111, 0);
+    font-size: 2rem;
+}
